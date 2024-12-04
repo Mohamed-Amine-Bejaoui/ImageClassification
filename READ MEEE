@@ -1,6 +1,6 @@
 Virtual enviroment recommended
 data ->dataset
-flask backend ->backend of react app
+flask backend ->backend of react app +ai model saved
 happy-sad detector ->frontend react
 models-> ai model saved
 project.ipynb->notebook
